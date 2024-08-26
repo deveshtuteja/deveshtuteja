@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Tuteja</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on [my-tube](https://github.com/deveshtuteja/my-tube)
+- 🔭 I’m currently working on [MyTube](https://myy-tube.vercel.app/), [StreamAI](https://stream-ai-mov.vercel.app/) & [EatEzy](https://eat-ezy.vercel.app/)
 
 - 🌱 I’m currently learning **Web Development & DSA**
 
