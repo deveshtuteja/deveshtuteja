@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deveshtuteja17@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1lfRSi0bxTAlEkKgQMJUdpQZ-fSKGc9tE/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/16US0tlIp4oa6ZZ8XVQTJFBFs8hwdaf--C9pT3vrqTxo/edit?usp=sharing)
 
 - ⚡Fact: **Coding is a more self-learning skill than an acquired discipline**
 
