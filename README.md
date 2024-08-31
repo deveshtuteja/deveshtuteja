@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devesh Tuteja</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India 🚀</h3>
+<h3 align="center">Summer Intern at Hero MotoCorp </h3>
 
-- 🔭 I’m currently working on [MyTube](https://myy-tube.vercel.app/), [StreamAI](https://stream-ai-mov.vercel.app/) & [EatEzy](https://eat-ezy.vercel.app/)
+- 🔭 I’m currently working on  [Leave Management System](https://github.com/deveshtuteja/hero-lms), [MyTube](https://myy-tube.vercel.app/) & [StreamAI](https://stream-ai-mov.vercel.app/)
 
 - 🌱 I’m currently learning **Web Development & DSA**
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **deveshtuteja17@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/16US0tlIp4oa6ZZ8XVQTJFBFs8hwdaf--C9pT3vrqTxo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1qkbQtfFTrdZlfRKtseumpMcba_B3Un8e/view?usp=sharing)
 
 - ⚡Fact: **Coding is a more self-learning skill than an acquired discipline**
 
