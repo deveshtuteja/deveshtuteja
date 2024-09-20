@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devesh Tuteja</h1>
 <h3 align="center">A Passionate Frontend Developer from India 🚀</h3>
-<h3 align="center">Summer Intern at Hero MotoCorp </h3>
+<h3 align="center">Former IT Intern at Hero MotoCorp </h3>
 
-- 🔭 I’m currently working on  [Leave Management System](https://github.com/deveshtuteja/hero-lms), [MyTube](https://myy-tube.vercel.app/) & [StreamAI](https://stream-ai.netlify.app/)
+- 🔭 I’m currently working on  [Portfolio Website](https://deveshtuteja.vercel.app/), [Leave Management System](https://github.com/deveshtuteja/hero-lms) & [StreamAI](https://stream-ai.netlify.app/)
 
 - 🌱 I’m currently learning **Web Development & DSA**
 
