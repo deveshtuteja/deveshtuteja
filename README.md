@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on  [Portfolio Website](https://deveshtuteja.vercel.app/), [Leave Management System](https://github.com/deveshtuteja/hero-lms) & [StreamAI](https://stream-ai.netlify.app/)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
