@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from India 🚀</h3>
 <h3 align="center">Former IT Intern at Hero MotoCorp </h3>
 
-- 🔭 I’m currently working on  [Portfolio Website](https://deveshtuteja.vercel.app/), [Leave Management System](https://github.com/deveshtuteja/hero-lms) & [StreamAI](https://stream-ai.netlify.app/)
+- 🔭 I’m currently working on  [Dev Tinder](https://github.com/deveshtuteja/devTinder)
 
 - 🌱 I’m currently learning **Node.js**
 
